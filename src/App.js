@@ -1,6 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import FriendCard from "./components/FriendCard";
+import Wrapper from "./components/Wrapper";
+import Title from "./components/Title";
+import friends from "./friends.json";
+import Score from "./components/Score";
+
 
 function App() {
   return (
