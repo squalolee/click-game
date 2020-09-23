@@ -1,7 +1,7 @@
 .text-center {
     text-align: center;
     font-size: 32px;
-    background-color: lightslategray;
+    background-color: black;
     width: fit-content;
     color: white;
 }
