@@ -3,7 +3,140 @@
         "id": 1, 
         "name": "Luka", 
         "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3945274.png&w=350&h=254", 
-        "position": "SG",
-        "team": "Dallas"
+        "position": "Guard",
+        "team": "Mavericks"
+    },
+    {
+        "id": 2, 
+        "name": "Lebron", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&w=350&h=254", 
+        "position": "Forward",
+        "team": "Lakers"
+    },
+    {
+        "id": 3, 
+        "name": "Kawaii", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6450.png&w=350&h=254", 
+        "position": "Forward",
+        "team": "Clippers"
+    },
+    {
+        "id": 4, 
+        "name": "Bam", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066261.png&w=350&h=254", 
+        "position": "Center",
+        "team": "Heat"
+    },
+    {
+        "id": 5, 
+        "name": "Jimmy", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6430.png&w=350&h=254", 
+        "position": "Forward",
+        "team": "Heat"
+    },
+    {
+        "id": 6, 
+        "name": "Nikola", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png&w=350&h=254", 
+        "position": "Center",
+        "team": "Nuggets"
+    },
+    {
+        "id": 7, 
+        "name": "Chris", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2779.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Thunder"
+    },
+    {
+        "id": 8, 
+        "name": "Ben", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907387.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Sixers"
+    },
+    {
+        "id": 9, 
+        "name": "Kristaps", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102531.png&w=350&h=254", 
+        "position": "Center",
+        "team": "Mavericks"
+    },
+    {
+        "id": 10, 
+        "name": "Giannis", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=350&h=254", 
+        "position": "Center",
+        "team": "Bucks"
+    },
+    {
+        "id": 11, 
+        "name": "Jayson", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065648.png&w=350&h=254", 
+        "position": "Forward",
+        "team": "Celtics"
+    },
+    {
+        "id": 12, 
+        "name": "Kemba", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6479.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Celtics"
+    },
+    {
+        "id": 13, 
+        "name": "Joel", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3059318.png&w=350&h=254", 
+        "position": "Center",
+        "team": "Sixers"
+    },
+    {
+        "id": 14, 
+        "name": "Damian", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6606.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Blazers"
+    },
+    {
+        "id": 15, 
+        "name": "Steph", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3975.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Warriors"
+    },
+    {
+        "id": 16, 
+        "name": "Klay", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6475.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Warriors"
+    },
+    {
+        "id": 17, 
+        "name": "Draymond", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6589.png&w=350&h=254", 
+        "position": "Forward",
+        "team": "Warriors"
+    },
+    {
+        "id": 18, 
+        "name": "Jamal", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3936299.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Nuggets"
+    },
+    {
+        "id": 19, 
+        "name": "Goran", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3423.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Heat"
+    },
+    {
+        "id": 20, 
+        "name": "Tyler", 
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395725.png&w=350&h=254", 
+        "position": "Guard",
+        "team": "Heat"
     }
 ]
