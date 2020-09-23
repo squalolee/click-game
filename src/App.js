@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from "react";
 import friends from "./friends.json";
 import FriendCard from './components/FriendCard';
 import Score from './components/Score';
