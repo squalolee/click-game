@@ -1,9 +1,11 @@
 import React from 'react';
-import FriendCard from "./components/FriendCard";
-import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
 import friends from "./friends.json";
-import Score from "./components/Score";
+import FriendCard from './components/FriendCard';
+import Score from './components/Score';
+import Title from './components/Title';
+import Wrapper from './components/Wrapper';
+
+
 
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
