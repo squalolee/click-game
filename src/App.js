@@ -4,6 +4,7 @@ import FriendCard from './components/FriendCard';
 import Score from './components/Score';
 import Title from './components/Title';
 import Wrapper from './components/Wrapper';
+import "./style.css"
 
 
 
