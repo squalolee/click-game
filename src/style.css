@@ -7,3 +7,7 @@ header {
     font-size: 30px;
     width: 100%;
 }
+.alert {
+    font: white;
+    font-size: 20px;
+}
